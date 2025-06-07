@@ -1,0 +1,16 @@
+{
+  "name": "typed-ctj",
+  "version": "1.0.0",
+  "description": "Generic CLI to convert CSV files to typed JSON via user-defined schemas.",
+  "bin": {
+    "typed-ctj": "./convert.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.6.0"
+  }
+}

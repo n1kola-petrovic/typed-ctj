@@ -1,0 +1,13 @@
+{
+  "id": "number",
+  "model": "string",
+  "cpu": "string",
+  "cores": "number",
+  "clock_ghz": "float",
+  "ram_gb": "number",
+  "storage_gb": "number",
+  "wifi": "boolean",
+  "bluetooth": "boolean",
+  "weight_kg": "float",
+  "release_date": "string"
+}

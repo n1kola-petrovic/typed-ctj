@@ -1,0 +1,13 @@
+node_modules/
+.DS_Store
+
+# Local-only data — only files matching *.example.<ext> are committed.
+input/*
+!input/.gitkeep
+!input/*.example.csv
+
+output/*
+!output/.gitkeep
+
+schemas/*
+!schemas/*.example.json
